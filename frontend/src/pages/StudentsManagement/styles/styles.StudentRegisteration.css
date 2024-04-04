@@ -1,0 +1,24 @@
+.form-StudentRegisteration {
+    background-color: #535569;
+    color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.form-StudentRegisteration .form-group{
+    border-radius: 5px;
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+
+.form-StudentRegisteration label, small{
+    text-align: left;
+}
+
+.form-StudentRegisteration h1{
+    text-align: center;
+    margin-bottom: 60px;
+    font-family: Josefin Sans;
+    text-transform: uppercase;
+    font-weight: bold;
+}

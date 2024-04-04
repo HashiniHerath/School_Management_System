@@ -1,0 +1,31 @@
+.logo{
+    height: 420px;
+    width: 405px;
+}
+
+.bgColor{
+    background-color: #B3B3BC;
+    border-radius: 20px;
+}
+
+.white{
+    color: white;
+}
+
+.signIN{
+    width: 137px;
+    height: 52px;
+}
+
+.box{
+    width: 80%;
+}
+
+.bgT{
+    background-color: #3F3D3D;
+}
+
+.custom-select{
+    height: 40px;
+    width: 100%;
+}

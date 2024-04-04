@@ -1,0 +1,31 @@
+.ellipse {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: #B3B3BC;
+    margin: 20px;
+  }
+  
+  .ellipse img {
+    width: 150px;
+    height: 150px;
+  }
+  
+  .row {
+    margin-top: 80px;
+    margin-left: 60px;
+    margin-right: 60px;
+  }
+
+  .examHeader h2 {
+    text-align: center;
+  }
+
+  .rcontainer-fluid {
+    align-items: center;
+  }
+  

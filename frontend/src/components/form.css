@@ -1,0 +1,71 @@
+/* new workout form */
+label, input {
+    display: block;
+   
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: var(--primary);
+    
+  }
+  input , select {
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    width: 100%;
+    border: 1px solid #000000;
+    border-radius: 4px;
+    box-sizing: border-box;
+
+    
+  }
+  form button {
+    background: var(--primary);
+    border: 0;
+    color: #fff;
+    padding: 10px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  div.error {
+    padding: 10px;
+    background: #ffefef;
+    border: 1px solid var(--error);
+    color: var(--error);
+    border-radius: 4px;
+    margin: 20px 0;
+  }
+
+  h3{
+    
+    font-weight: bold;
+    color: var(--primary);
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 30px;
+  }
+
+  .formBtn{
+    background-color: black;
+    color: #ffffff;
+    padding: 5 5 5 5;
+    width: 30%;
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    border-radius: 30px;
+    
+  }
+
+  .backBtn{
+    background-color: black;
+    color: #ffffff;
+    padding: 10px 10px 10px 10px;
+    font-size: 1.2rem;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    border-radius: 10px;
+    
+  }
+  
+ 

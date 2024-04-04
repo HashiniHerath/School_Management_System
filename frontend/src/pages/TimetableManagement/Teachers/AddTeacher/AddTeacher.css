@@ -1,0 +1,23 @@
+.logo{
+    height: 420px;
+    width: 405px;
+}
+
+.bgColor{
+    background-color: #B3B3BC;
+}
+
+.white{
+    color: white;
+}
+
+.signIN{
+    width: 137px;
+    height: 52px;
+}
+
+
+.custom-select{
+    height: 40px;
+    width: 100%;
+}

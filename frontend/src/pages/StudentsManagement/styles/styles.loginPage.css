@@ -1,0 +1,42 @@
+/* body {
+    background-color: #13141A;
+} */
+
+.form-container {
+    background-color: #535569;
+    color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 50px;
+}
+.form-container input[type="text"],
+.form-container input[type="password"] {
+    background-color: #D9D9D9;
+    color: #000;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+.form-container label {
+    font-weight: bold;
+    text-align: left;
+}
+.form-container .forgot-password {
+    font-size: 12px;
+    text-align: right;
+}
+.login-btn {
+    background-color: #13141A;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+.login-btn:hover {
+    background-color: #292A31;
+    color: #fff;
+    cursor: pointer;
+}
